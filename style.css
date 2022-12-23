@@ -1,0 +1,26 @@
+.desc {
+    color: red;
+    background-color: black;
+    height: 100px;
+    width: 1000px;
+    border-radius: 100px;
+
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+#text.desc1 {
+    color: red;
+    background-color: rgb(212, 182, 182);
+}
+
+[href] {
+    text-decoration: none;
+}
+
+.desc,
+.desc1 {
+    color: aqua;
+}
